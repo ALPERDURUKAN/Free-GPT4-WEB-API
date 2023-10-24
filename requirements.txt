@@ -3,4 +3,3 @@ auth
 Flask[async]
 g4f
 Werkzeug
-urllib3==1.26.6
